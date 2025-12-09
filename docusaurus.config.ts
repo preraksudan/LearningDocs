@@ -26,6 +26,9 @@ const config: Config = {
   organizationName: 'preraksudan', // Usually your GitHub org/user name.
   projectName: 'LearningDocs', // Usually your repo name.
 
+  deploymentBranch: 'gh-pages',// this is the deploymnent branch.
+
+
   onBrokenLinks: 'throw',
 
   // Even if you don't use internationalization, you can use this field to set
